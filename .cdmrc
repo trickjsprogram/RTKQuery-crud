@@ -1,4 +1,4 @@
-terminal-one: npm install && yarn start
+terminal-one: npm install && npm start
 terminal-two: npm run server
 terminal-three: echo "we're ready"
 live-reload-browser: false
